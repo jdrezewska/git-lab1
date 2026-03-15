@@ -1,0 +1,2 @@
+to jest mój nowy plik tekstowy w branch1
+
